@@ -22,5 +22,8 @@ This will spit out an ics calendar. In the university, I released a link to a Go
 You'll have to upload this calendar yourself to your prefered calendar app. 
 
 As I have now graduated and left, I no longer maintain this, but I'm perfectly (and I hope obviously) happy to approve pull requests et cetera.
+Naturally, the college website will evolve with time. The code may need be adapted (the web parsing, in particular) to suit these changes.
 
+Perhaps in future, it could be offered by default by the college.
+ 
 Happy Halling.
