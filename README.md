@@ -1,5 +1,7 @@
 # Christ's Upper Hall Calendar Script
 
+Written in Python 2.7.
+
 I wrote this script in Lent 2016. It takes the Upper Hall menus at Christ's College, Cambridge (in case you were coming from elsewhere) and produces a calendar file which you can import into your own calendar.
 Specifically, this is meant to export the menus to the calendar. You can read these in the event descriptions.
 
